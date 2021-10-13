@@ -1,0 +1,27 @@
+{
+	"servers": ["ss://YWVzLTI1Ni1nY206cGFzc3dvcmQ@sxps.herokuapp.com:80?plugin=blackapp-v2ray-plugin%3Bhost%3Dsxps.herokuapp.com#SXPS"],
+	"link": "http://uupload.ir/filelink/4dw9mJjED9cz/18g6_rivtele.apk",
+	"version": "1",
+	"title": "New update",
+	"content": "Download new version of application on google play",
+	"button": "نصب نسخه sssssssssssss",
+	"forcible": false,
+	"ads": {
+		"native": {
+			"id": "ca-app-pub-3940256099942544/2247696110",
+			"is_active": true
+		},
+		"openapp": {
+			"id": "ca-app-pub-3940256099942544/3419835294",
+			"is_active": true
+		},
+		"fullscreen": {
+			"id": null,
+			"is_active": false
+		},
+		"reward": {
+			"id": "ca-app-pub-3940256099942544/5224354917",
+			"is_active": true
+		}
+	}
+}
